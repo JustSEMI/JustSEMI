@@ -2,21 +2,21 @@
 
 Hai nama saya Samuel.
 
-Mahasiswa Teknik Informatika Prodi Teknik Komputer - Politeknik Negeri Jember.
-
-Sedang Fokus pada pengembangan web, pemrograman Python, dan server (debian 13).
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Politeknik%20Negeri%20Jember-blue?style=flat-square&logo=google-scholar&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-bluezex-7289DA?style=flat-square&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-JustSEMI-181717?style=flat-square&logo=github&logoColor=white">
+</p>
 
 
 ## 🛠 Tech & Skills
-Bahasa Pemrogaman:
-  - HTML 5
-  - CSS
-  - Python
-
-Alat & Platform:
-  - Git & Github
-  - Vscode-insider
-  - Arch Linux
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 ## GitHub Stats
 <p> <img src="https://github-readme-stats.vercel.app/api?username=JustSEMI&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"> 
