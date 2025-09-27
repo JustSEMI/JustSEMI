@@ -12,6 +12,7 @@ Bahasa Pemrogaman:
   - HTML 5
   - CSS
   - Python
+
 Alat & Platform:
   - Git & Github
   - Vscode-insider
