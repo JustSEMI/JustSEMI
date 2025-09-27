@@ -1,8 +1,11 @@
 # WELCOME
 
 Hai nama saya Samuel
+
 Mahasiswa Teknik Informatika Prodi Teknik Komputer - Politeknik Negeri Jember.
+
 Sedang Fokus pada pengembangan web, pemrograman Python, dan server (debian 13)
+
 
 ## 🛠 Tech & Skills
 Bahasa Pemrogaman:
