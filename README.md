@@ -2,20 +2,18 @@
 
 Hai nama saya Samuel.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-Politeknik%20Negeri%20Jember-blue?style=flat-square&logo=google-scholar&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-bluezex-7289DA?style=flat-square&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-JustSEMI-181717?style=flat-square&logo=github&logoColor=white">
-</p>
+Mahasiswa Teknik Informatika Prodi Teknik Komputer - Politeknik Negeri Jember.
 
+Sedang Fokus pada pengembangan web, pemrograman Python, dan server (debian 13).
 
 ## 🛠 Tech & Skills
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code%20Insiders-24BFA5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ## GitHub Stats
