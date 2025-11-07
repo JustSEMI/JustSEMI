@@ -6,7 +6,7 @@ Mahasiswa Teknik Informatika Prodi Teknik Komputer - Politeknik Negeri Jember.
 
 Sedang Fokus pada pengembangan web, pemrograman Python, dan server (debian 13).
 
-## 🛠 Tech & Skills
+# TECH & SKILLS
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,7 +16,7 @@ Sedang Fokus pada pengembangan web, pemrograman Python, dan server (debian 13).
   <img src="https://img.shields.io/badge/VS%20Code%20Insiders-24BFA5?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-## GitHub Stats
+# GITHUB STATS
 <p> <img src="https://github-readme-stats.vercel.app/api?username=JustSEMI&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"> 
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSEMI&layout=compact&theme=tokyonight" alt="Top Languages" height="165"> </p>
