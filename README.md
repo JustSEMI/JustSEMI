@@ -17,6 +17,3 @@ Sedang Fokus pada pengembangan web, pemrograman Python, dan server (debian 13).
 </p>
 
 # GITHUB STATS
-<p> <img src="https://github-readme-stats.vercel.app/api?username=JustSEMI&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"> 
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSEMI&layout=compact&theme=tokyonight" alt="Top Languages" height="165"> </p>
